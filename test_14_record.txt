@@ -1,0 +1,11 @@
+nohup: ignoring input
+'Protein Name':/mnt/data/dangmingai/casp14_dataset/T1026/ 'PCC': 0.27188982479141655, 'Spearman': 0.08351262637950307, 'Kendall': 0.06325355407594026:
+'Protein Name':/mnt/data/dangmingai/casp14_dataset/T1050/ 'PCC': -0.12197960828263785, 'Spearman': -0.06969279947259321, 'Kendall': -0.02008024306460469:
+'Protein Name':/mnt/data/dangmingai/casp14_dataset/T1029/ 'PCC': 0.8059271272574, 'Spearman': 0.4603394019499617, 'Kendall': 0.3084889631449973:
+'Protein Name':/mnt/data/dangmingai/casp14_dataset/T1062/ 'PCC': 0.8421567909200289, 'Spearman': 0.8482826811888806, 'Kendall': 0.6633793294715022:
+'Protein Name':/mnt/data/dangmingai/casp14_dataset/T1095/ 'PCC': -0.09808655967497562, 'Spearman': -0.048080530509017894, 'Kendall': 0.03727161288502299:
+'Protein Name':/mnt/data/dangmingai/casp14_dataset/T1032/ 'PCC': 0.8776968603799395, 'Spearman': 0.8473269873070828, 'Kendall': 0.6743190156940168:
+'Protein Name':/mnt/data/dangmingai/casp14_dataset/T1101/ 'PCC': 0.2332290117849323, 'Spearman': 0.263780717745948, 'Kendall': 0.19697518177792497:
+'Protein Name':/mnt/data/dangmingai/casp14_dataset/T1035/ 'PCC': 0.7562747910872379, 'Spearman': 0.7409248768963421, 'Kendall': 0.5534065685083543:
+'Protein Name':/mnt/data/dangmingai/casp14_dataset/T1053/ 'PCC': 0.9233611680268545, 'Spearman': 0.8310152453002632, 'Kendall': 0.654797091619937:
+'Protein Name':/mnt/data/dangmingai/casp14_dataset/T1056/ 'PCC': 0.6700679692825788, 'Spearman': 0.7245042075376845, 'Kendall': 0.5252462338513412:

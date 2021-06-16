@@ -1,0 +1,123 @@
+nohup: ignoring input
+epoch: 0
+train epoch: 0 loss:1.2663732828199864
+'PCC': 0.3684022852164609, 'Spearman': 0.29942517347456915, 'Kendall': 0.2051291411817953
+epoch: 1
+train epoch: 1 loss:0.856517863869667
+'PCC': 0.5275425804516028, 'Spearman': 0.43482722479224617, 'Kendall': 0.30306255825700407
+epoch: 2
+train epoch: 2 loss:0.7953485010564328
+'PCC': 0.5772942466347819, 'Spearman': 0.47788047756418994, 'Kendall': 0.3365566955120221
+epoch: 3
+train epoch: 3 loss:0.7201301154494286
+'PCC': 0.661525119461123, 'Spearman': 0.5740508136076001, 'Kendall': 0.41426964543589884
+epoch: 4
+train epoch: 4 loss:0.7084314760565757
+'PCC': 0.6773251971409878, 'Spearman': 0.5958012271378507, 'Kendall': 0.43188800610834466
+epoch: 5
+train epoch: 5 loss:0.6759459148347378
+'PCC': 0.6920575098855568, 'Spearman': 0.6088482723200698, 'Kendall': 0.4408922391685688
+epoch: 6
+train epoch: 6 loss:0.6244494642317295
+'PCC': 0.7299990855568926, 'Spearman': 0.6606177532317985, 'Kendall': 0.48564864159726945
+epoch: 7
+train epoch: 7 loss:0.5916270871460438
+'PCC': 0.7337467005311719, 'Spearman': 0.66209313706344, 'Kendall': 0.48768567861550977
+epoch: 8
+train epoch: 8 loss:0.58098248302936556
+'PCC': 0.7403975522834997, 'Spearman': 0.671236546673894, 'Kendall': 0.4944911299340285
+epoch: 9
+train epoch: 9 loss:0.5681165769696236
+'PCC': 0.7595973100784207, 'Spearman': 0.6963229885666813, 'Kendall': 0.5181733892801784
+epoch: 10
+train epoch: 10 loss:0.53309479579329494
+'PCC': 0.768223234526735, 'Spearman': 0.70819693442762, 'Kendall': 0.5279090838852432
+epoch: 11
+train epoch: 11 loss:0.5422456604242325
+'PCC': 0.7713022649289923, 'Spearman': 0.7128088812196717, 'Kendall': 0.5319722859228888
+epoch: 12
+train epoch: 12 loss:0.51513628616929055
+'PCC': 0.7839179984539648, 'Spearman': 0.7278857962008012, 'Kendall': 0.5459320029969061
+epoch: 13
+train epoch: 13 loss:0.5072355753183365
+'PCC': 0.7862285386013869, 'Spearman': 0.7313473359756957, 'Kendall': 0.5487695933529482
+epoch: 14
+train epoch: 14 loss:0.5085817983746529
+'PCC': 0.7875662755697825, 'Spearman': 0.7323485979620789, 'Kendall': 0.5497400532843976
+epoch: 15
+train epoch: 15 loss:0.48181401625275615
+'PCC': 0.7949088368114996, 'Spearman': 0.7417462934475133, 'Kendall': 0.5587239244981664
+epoch: 16
+train epoch: 16 loss:0.48442166492342946
+'PCC': 0.7956498402450242, 'Spearman': 0.7431242985662788, 'Kendall': 0.5597403083734671
+epoch: 17
+train epoch: 17 loss:0.483619948476553
+'PCC': 0.7971843257433205, 'Spearman': 0.7460496806958078, 'Kendall': 0.5626089869292071
+epoch: 18
+train epoch: 18 loss:0.4736534680426121
+'PCC': 0.7989986460891216, 'Spearman': 0.7480770286939408, 'Kendall': 0.5645402978466085
+epoch: 19
+train epoch: 19 loss:0.47541287198662754
+'PCC': 0.8012164091080629, 'Spearman': 0.7505563268342763, 'Kendall': 0.5668657689065687
+'Protein Name':/mnt/data/dangmingai/valid_data/T0859/ 'PCC': 0.4664522876119511, 'Spearman': 0.4572962111869739, 'Kendall': 0.31529502074341187:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0860/ 'PCC': 0.9450163980349557, 'Spearman': 0.843890032411296, 'Kendall': 0.6434305492278545:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0861/ 'PCC': 0.8539415222804456, 'Spearman': 0.6593011363229124, 'Kendall': 0.4889699928877286:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0862/ 'PCC': 0.46186856125872316, 'Spearman': 0.4336110454161068, 'Kendall': 0.2973438125745866:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0863/ 'PCC': -0.02712299672055725, 'Spearman': 0.14145962763026906, 'Kendall': 0.11227198356623862:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0864/ 'PCC': 0.7881815975776651, 'Spearman': 0.6426402766316273, 'Kendall': 0.48214911169358277:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0865/ 'PCC': 0.7735454700493792, 'Spearman': 0.757659802431157, 'Kendall': 0.576272868761392:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0866/ 'PCC': 0.9011679184340741, 'Spearman': 0.8958602564023824, 'Kendall': 0.7252890667815395:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0868/ 'PCC': 0.8531625728575419, 'Spearman': 0.8218087983776174, 'Kendall': 0.63468523260538:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0869/ 'PCC': 0.681242724094693, 'Spearman': 0.6526368587497468, 'Kendall': 0.4812602348491752:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0870/ 'PCC': 0.4408795072255888, 'Spearman': 0.42720311412151407, 'Kendall': 0.2989846193918633:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0871/ 'PCC': 0.920226028570029, 'Spearman': 0.9333765408088913, 'Kendall': 0.7863180269527604:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0872/ 'PCC': 0.8622323173297991, 'Spearman': 0.8091954311126259, 'Kendall': 0.6342831445401999:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0873/ 'PCC': 0.9800280105957053, 'Spearman': 0.6466295955456157, 'Kendall': 0.4937404912575188:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0879/ 'PCC': 0.9514162559875449, 'Spearman': 0.817017126305378, 'Kendall': 0.6465001184316379:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0886/ 'PCC': 0.7022364106118365, 'Spearman': 0.5091588002844066, 'Kendall': 0.3636177087901347:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0889/ 'PCC': 0.9753061441895312, 'Spearman': 0.7920199284010737, 'Kendall': 0.62145980188534:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0891/ 'PCC': 0.9491842728090342, 'Spearman': 0.7656867097131148, 'Kendall': 0.6013277834666645:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0892/ 'PCC': 0.8107380386623932, 'Spearman': 0.7984489539981129, 'Kendall': 0.5949564495026792:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0893/ 'PCC': 0.8757135971882855, 'Spearman': 0.8272733441968958, 'Kendall': 0.6568239291854168:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0896/ 'PCC': 0.5679017198811709, 'Spearman': 0.6271003886845666, 'Kendall': 0.440467313872232:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0897/ 'PCC': 0.3410773309972645, 'Spearman': 0.35866286576473977, 'Kendall': 0.2731821319981677:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0898/ 'PCC': 0.7517266720241884, 'Spearman': 0.6938270127489231, 'Kendall': 0.5103383691498508:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0900/ 'PCC': 0.6727832387202347, 'Spearman': 0.6951555913643777, 'Kendall': 0.5025465300745201:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0902/ 'PCC': 0.8736590608973201, 'Spearman': 0.6133338315212601, 'Kendall': 0.4548807247603287:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0903/ 'PCC': 0.797742787731573, 'Spearman': 0.6616955708401573, 'Kendall': 0.46331262071612656:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0904/ 'PCC': 0.7623052829546527, 'Spearman': 0.7277373227533637, 'Kendall': 0.5373203955474884:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0911/ 'PCC': 0.9370624993342546, 'Spearman': 0.8070798206711766, 'Kendall': 0.6587041503792126:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0912/ 'PCC': 0.9244410953773186, 'Spearman': 0.9224731087338971, 'Kendall': 0.7629124943347158:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0918/ 'PCC': 0.760302130866103, 'Spearman': 0.7269068225738551, 'Kendall': 0.5380681298281769:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0920/ 'PCC': 0.8917846881856833, 'Spearman': 0.7452857229370208, 'Kendall': 0.5625625998312855:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0921/ 'PCC': 0.8793084286659637, 'Spearman': 0.5947857059321794, 'Kendall': 0.4358956515125566:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0922/ 'PCC': 0.944737449332221, 'Spearman': 0.7348942524630477, 'Kendall': 0.5498345261604549:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0928/ 'PCC': 0.9188054690210795, 'Spearman': 0.8922224731141456, 'Kendall': 0.7151444464381842:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0941/ 'PCC': 0.17139947717315396, 'Spearman': 0.31307671108887897, 'Kendall': 0.23190662360775277:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0942/ 'PCC': 0.8555689693813453, 'Spearman': 0.8216939384142513, 'Kendall': 0.6353354338277474:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0943/ 'PCC': 0.9471548539717162, 'Spearman': 0.8969051820272252, 'Kendall': 0.7079217527191284:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0944/ 'PCC': 0.9641676913274275, 'Spearman': 0.9247114426243446, 'Kendall': 0.7799704662442004:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0945/ 'PCC': 0.9759591201105866, 'Spearman': 0.9156948057432515, 'Kendall': 0.7536857245595109:
+'Protein Name':/mnt/data/dangmingai/valid_data/T0947/ 'PCC': 0.8486738135950165, 'Spearman': 0.8800764547066874, 'Kendall': 0.7041023370296348:
+Valid Total: 'PCC': 0.7737994604549223, 'Spearman': 0.7046373153688767, 'Kendall': 0.5418268092421595
+'Protein Name':/mnt/data/dangmingai/test_data/T0950/ 'PCC': 0.760751997694916, 'Spearman': 0.5435154467723478, 'Kendall': 0.3829865812980677:
+'Protein Name':/mnt/data/dangmingai/test_data/T0951/ 'PCC': 0.982225804519587, 'Spearman': 0.7943703325595324, 'Kendall': 0.628828191771974:
+'Protein Name':/mnt/data/dangmingai/test_data/T0953s1/ 'PCC': 0.7799525226558897, 'Spearman': 0.7790347789922207, 'Kendall': 0.5783439148755403:
+'Protein Name':/mnt/data/dangmingai/test_data/T0953s2/ 'PCC': 0.8690952013230752, 'Spearman': 0.7419574818706447, 'Kendall': 0.5667533678600253:
+'Protein Name':/mnt/data/dangmingai/test_data/T0954/ 'PCC': 0.7405733631724314, 'Spearman': 0.8051132014739135, 'Kendall': 0.6223679050547226:
+'Protein Name':/mnt/data/dangmingai/test_data/T0955/ 'PCC': 0.7718842265468242, 'Spearman': 0.8015751306986606, 'Kendall': 0.5983937965345872:
+'Protein Name':/mnt/data/dangmingai/test_data/T0957s1/ 'PCC': 0.6802534416470278, 'Spearman': 0.6178290628122284, 'Kendall': 0.44766539759276114:
+'Protein Name':/mnt/data/dangmingai/test_data/T0957s2/ 'PCC': 0.7705787826830156, 'Spearman': 0.6869390288257328, 'Kendall': 0.5093664497346679:
+'Protein Name':/mnt/data/dangmingai/test_data/T0958/ 'PCC': 0.9161538747880119, 'Spearman': 0.9190395192866573, 'Kendall': 0.7531953913824585:
+'Protein Name':/mnt/data/dangmingai/test_data/T0960/ 'PCC': 0.7550405221763715, 'Spearman': 0.747171643859453, 'Kendall': 0.5404103543151543:
+'Protein Name':/mnt/data/dangmingai/test_data/T0963/ 'PCC': 0.7641003942338104, 'Spearman': 0.7583651704199718, 'Kendall': 0.5558963324030805:
+'Protein Name':/mnt/data/dangmingai/test_data/T0966/ 'PCC': 0.8865635712626019, 'Spearman': 0.754719767394077, 'Kendall': 0.561909872422859:
+'Protein Name':/mnt/data/dangmingai/test_data/T0968s1/ 'PCC': 0.9468981476925029, 'Spearman': 0.8578618409535922, 'Kendall': 0.6929739374382565:
+'Protein Name':/mnt/data/dangmingai/test_data/T0968s2/ 'PCC': 0.8917151870066188, 'Spearman': 0.9005371528811658, 'Kendall': 0.7410918071545367:
+'Protein Name':/mnt/data/dangmingai/test_data/T1003/ 'PCC': 0.8520184954811081, 'Spearman': 0.7163176574335686, 'Kendall': 0.5356749195637608:
+'Protein Name':/mnt/data/dangmingai/test_data/T1005/ 'PCC': 0.8568350605649173, 'Spearman': 0.792306550342404, 'Kendall': 0.6106151513980922:
+'Protein Name':/mnt/data/dangmingai/test_data/T1008/ 'PCC': 0.7332574240150487, 'Spearman': 0.555971479273486, 'Kendall': 0.3991616777729728:
+'Protein Name':/mnt/data/dangmingai/test_data/T1009/ 'PCC': 0.9274254357164119, 'Spearman': 0.8271833159165584, 'Kendall': 0.6900999711650254:
+'Protein Name':/mnt/data/dangmingai/test_data/T1011/ 'PCC': 0.7017328375729556, 'Spearman': 0.7810048837533127, 'Kendall': 0.5634856460271711:
+'Protein Name':/mnt/data/dangmingai/test_data/T1016/ 'PCC': 0.9436921732516113, 'Spearman': 0.8299039540536617, 'Kendall': 0.6699324233110857:
+Test Total: 'PCC': 0.8265374232002369, 'Spearman': 0.7605358699786595, 'Kendall': 0.58245765445384
